@@ -30,7 +30,7 @@ msgstr "Ruta decodificador"
 
 msgctxt "#30110"
 msgid "Max. Resolution general decoder"
-msgstr "Máx. Resolución decodificador general"
+msgstr "Máx. Resolución decodificación general"
 
 msgctxt "#30111"
 msgid "Stream Selection"
